@@ -1,6 +1,6 @@
 from collections import deque
 grafo = {}
-grafo["voce"] = ["alice","bob","claire"]
+grafo ["voce"] = ["alice","bob","claire"]
 grafo["bob"] = ["anuj","peggy"]
 grafo["alice"] = ["peggy"]
 grafo["claire"] = ["thom","jonny"]
